@@ -23,3 +23,6 @@ tagging is used to provide version number
 git tag -a v1.0 -m "
 
 git show to ger inforamtion of the tag
+
+to create brach git checkout -b feauture
+git brach
