@@ -18,3 +18,8 @@ git clone
 git remote add origin ssh-key
 git remote -version
 git push -u origin main
+
+tagging is used to provide version number
+git tag -a v1.0 -m "
+
+git show to ger inforamtion of the tag
