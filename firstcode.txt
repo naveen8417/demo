@@ -6,3 +6,4 @@ git config -global user.password
 git log
 git commit
 git status
+git commit -a -m "
