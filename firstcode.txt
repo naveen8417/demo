@@ -9,4 +9,5 @@ git status
 git commit -a -m "
 git 
 git diff -- staged
-git rm
+git rm cached 
+git clone
