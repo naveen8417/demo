@@ -7,4 +7,6 @@ git log
 git commit
 git status
 git commit -a -m "
-git diff
+git 
+git diff -- staged
+git rm
