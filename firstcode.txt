@@ -11,3 +11,10 @@ git
 git diff -- staged
 git rm cached 
 git clone
+
+
+
+//to add in remote 
+git remote add origin ssh-key
+git remote -version
+git push -u origin main
